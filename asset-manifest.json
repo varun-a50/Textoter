@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Textoter/static/css/main.2543b9d3.css",
-    "main.js": "/Textoter/static/js/main.2904327a.js",
+    "main.js": "/Textoter/static/js/main.68978535.js",
     "static/js/787.28cb0dcd.chunk.js": "/Textoter/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/Textoter/index.html",
     "main.2543b9d3.css.map": "/Textoter/static/css/main.2543b9d3.css.map",
-    "main.2904327a.js.map": "/Textoter/static/js/main.2904327a.js.map",
+    "main.68978535.js.map": "/Textoter/static/js/main.68978535.js.map",
     "787.28cb0dcd.chunk.js.map": "/Textoter/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2543b9d3.css",
-    "static/js/main.2904327a.js"
+    "static/js/main.68978535.js"
   ]
 }
